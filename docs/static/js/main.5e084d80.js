@@ -1,4 +1,4 @@
-/*! For license information please see main.f6ab242d.js.LICENSE.txt */
+/*! For license information please see main.5e084d80.js.LICENSE.txt */
 !(function () {
   var e = {
       110: function (e, t, n) {
@@ -9501,7 +9501,7 @@
         Object.defineProperty(e, Symbol.toStringTag, { value: 'Module' }),
         Object.defineProperty(e, '__esModule', { value: !0 });
     }),
-    (n.p = '/'),
+    (n.p = './'),
     (function () {
       var e = { 179: 0 };
       n.f.j = function (t, r) {
@@ -10473,7 +10473,7 @@
           ('undefined' != typeof process &&
             ({
               NODE_ENV: 'production',
-              PUBLIC_URL: '',
+              PUBLIC_URL: '.',
               WDS_SOCKET_HOST: void 0,
               WDS_SOCKET_PATH: void 0,
               WDS_SOCKET_PORT: void 0,
@@ -10481,7 +10481,7 @@
             }.REACT_APP_SC_ATTR ||
               {
                 NODE_ENV: 'production',
-                PUBLIC_URL: '',
+                PUBLIC_URL: '.',
                 WDS_SOCKET_HOST: void 0,
                 WDS_SOCKET_PATH: void 0,
                 WDS_SOCKET_PORT: void 0,
@@ -10496,7 +10496,7 @@
               void 0 !==
                 {
                   NODE_ENV: 'production',
-                  PUBLIC_URL: '',
+                  PUBLIC_URL: '.',
                   WDS_SOCKET_HOST: void 0,
                   WDS_SOCKET_PATH: void 0,
                   WDS_SOCKET_PORT: void 0,
@@ -10505,7 +10505,7 @@
               '' !==
                 {
                   NODE_ENV: 'production',
-                  PUBLIC_URL: '',
+                  PUBLIC_URL: '.',
                   WDS_SOCKET_HOST: void 0,
                   WDS_SOCKET_PATH: void 0,
                   WDS_SOCKET_PORT: void 0,
@@ -10514,7 +10514,7 @@
             ? 'false' !==
                 {
                   NODE_ENV: 'production',
-                  PUBLIC_URL: '',
+                  PUBLIC_URL: '.',
                   WDS_SOCKET_HOST: void 0,
                   WDS_SOCKET_PATH: void 0,
                   WDS_SOCKET_PORT: void 0,
@@ -10522,7 +10522,7 @@
                 }.REACT_APP_SC_DISABLE_SPEEDY &&
               {
                 NODE_ENV: 'production',
-                PUBLIC_URL: '',
+                PUBLIC_URL: '.',
                 WDS_SOCKET_HOST: void 0,
                 WDS_SOCKET_PATH: void 0,
                 WDS_SOCKET_PORT: void 0,
@@ -10532,7 +10532,7 @@
               void 0 !==
                 {
                   NODE_ENV: 'production',
-                  PUBLIC_URL: '',
+                  PUBLIC_URL: '.',
                   WDS_SOCKET_HOST: void 0,
                   WDS_SOCKET_PATH: void 0,
                   WDS_SOCKET_PORT: void 0,
@@ -10541,7 +10541,7 @@
               '' !==
                 {
                   NODE_ENV: 'production',
-                  PUBLIC_URL: '',
+                  PUBLIC_URL: '.',
                   WDS_SOCKET_HOST: void 0,
                   WDS_SOCKET_PATH: void 0,
                   WDS_SOCKET_PORT: void 0,
@@ -10550,7 +10550,7 @@
               'false' !==
                 {
                   NODE_ENV: 'production',
-                  PUBLIC_URL: '',
+                  PUBLIC_URL: '.',
                   WDS_SOCKET_HOST: void 0,
                   WDS_SOCKET_PATH: void 0,
                   WDS_SOCKET_PORT: void 0,
@@ -10558,7 +10558,7 @@
                 }.SC_DISABLE_SPEEDY &&
               {
                 NODE_ENV: 'production',
-                PUBLIC_URL: '',
+                PUBLIC_URL: '.',
                 WDS_SOCKET_HOST: void 0,
                 WDS_SOCKET_PATH: void 0,
                 WDS_SOCKET_PORT: void 0,
@@ -11857,4 +11857,4 @@
         st();
     })();
 })();
-//# sourceMappingURL=main.f6ab242d.js.map
+//# sourceMappingURL=main.5e084d80.js.map
